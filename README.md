@@ -85,3 +85,6 @@ them, but because they're checking a different thing.
   not autonomously reject anyone. A qualified person makes the actual call.
 - No credentials are stored in this repo. Set `GEMINI_API_KEY` as an
   environment variable, never in code.
+## Case Studies
+* [Task Odyssey: DNA Sequence Analysis & Evaluation Workflow](./TASK_ODYSSEY.md)
+
